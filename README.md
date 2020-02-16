@@ -11,4 +11,4 @@ Ce projet est destiné à récolter les bonnes idées:
 - I hate regex:
   - Pouvoir linker de manière unique une regex sur (https://ihateregex.io/expr/ssn https://github.com/geongeorge/i-hate-regex/issues/42)
   - Plugin ihateregex pour VSCode
-
+- Système de sonnette lumineuse pour bureaux partagés
